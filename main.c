@@ -16,6 +16,11 @@ feature1()
 >>>>>>> added feature A
 }
 
+feaature2()
+{
+  //Sample Code for Feature 2
+}
+
 
 
 }
